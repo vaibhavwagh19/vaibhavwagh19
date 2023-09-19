@@ -75,6 +75,6 @@ Share some fun or interesting facts about yourself that might spark a conversati
 
 You can include a GitHub Stats card to display your GitHub activity and contributions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?vaibhavwagh19=vaibhavwagh19&show_icons=true&theme=radical)
 
 Feel free to customize this template according to your preferences and the information you want to showcase. Adding images, badges, and other visual elements can make your profile README more engaging and informative.
