@@ -4,14 +4,21 @@
 
 ## About Me
 
-I am a passionate software developer with a strong background in web development and data science. I love tackling challenging problems and creating innovative solutions. When I'm not coding, you can find me exploring the great outdoors or experimenting in the kitchen.
+I am a final year student with a passion for web development and data science. As I approach graduation, I'm dedicated to expanding my skills and preparing for a successful career in software development. I love tackling challenging problems and creating innovative solutions. When I'm not coding, you can find me exploring the great outdoors or experimenting in the kitchen.
 
 ## 🔭 What I'm Currently Working On
 
 I'm currently working on several exciting projects, including:
 
-- **Project 1:** Analyzing customer data to identify trends and improve user experiences.
-- **Project 2:** Contributing to open-source projects that promote sustainability.
+In addition to my academic pursuits, I'm actively working on an exciting project—a bus tracking system built using Flutter. This project combines my love for technology and my interest in improving public transportation experiences.
+
+## 🚌 Bus Tracking App with Flutter
+
+### Project Details
+
+- **Objective:** To provide a real-time bus tracking system that enhances the commuting experience for passengers.
+- **Technologies Used:** Flutter, Geolocator, Google Maps, Firebase.
+- **Key Features:** Real-time location tracking, user-friendly interfaces for drivers and passengers, mapping and route visualization, user authentication, and more.
 
 ## 🌱 What I'm Learning
 
