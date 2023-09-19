@@ -22,10 +22,11 @@ In addition to my academic pursuits, I'm actively working on an exciting project
 
 ## 🌱 What I'm Learning
 
-I'm always eager to learn and expand my skillset. Right now, I'm focused on:
+As a beginner in mobile and web development, I'm excited to share my learning journey with you. I'm currently focusing on two key technologies:
 
-- My primary focus right now is on mastering React. I believe that React is a game-changer in web development, and I'm eager to leverage its power to create stunning and responsive user interfaces.
-- Exploring machine learning techniques for predictive analytics.
+- **Flutter (Beginner):** I'm diving into the world of mobile app development with Flutter. It's a thrilling journey as I explore building cross-platform mobile applications from scratch. I'm enjoying the process of creating beautiful and responsive user interfaces.
+
+- **React (Beginner):** In the realm of web development, I'm taking my first steps into React. It's an exciting challenge to grasp the fundamentals of React and apply them to create dynamic web applications.
 
 ## 💼 My Professional Experience
 
