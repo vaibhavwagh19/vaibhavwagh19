@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
