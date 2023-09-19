@@ -3,7 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwagh19&layout=compact" alt="Top Languages">
   </div>
 </div>
       
