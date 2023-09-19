@@ -44,15 +44,15 @@ Here are some of my technical skills:
 
 Feel free to connect with me on social media or send me an email:
 
-- LinkedIn: [Your LinkedIn Profile]([link_to_linkedin](https://www.linkedin.com/in/vaibhav-wagh))
-- Instagram: [@YourInstagramHandle]([link_to_twitter](https://www.instagram.com/vaibhavwagh019/))
-- Email: [youremail@example.com](mailto:vaibhavwagh727@example.com)
+- LinkedIn: [Vaibhav Wagh]([link_to_linkedin](https://www.linkedin.com/in/vaibhav-wagh))
+- Instagram: [vaibhavwagh019]([link_to_twitter](https://www.instagram.com/vaibhavwagh019/))
+- Email: [vaibhavwagh@example.com](mailto:vaibhavwagh727@example.com)
 
 ## 🌐 My Website
 
 Visit my personal website to learn more about my work and projects:
 
-- [Your Website](vaibhavwagh.in)
+- [vaibhavwagh.in](vaibhavwagh.in)
   (⚠ work in progress)
 
 ## 🤝 Open to Collaboration
