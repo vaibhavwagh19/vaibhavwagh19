@@ -65,10 +65,6 @@ Visit my personal website to learn more about my work and projects:
 
 I'm always open to collaborating on exciting projects or discussing job opportunities. Feel free to reach out!
 
-## 💬 Fun Facts
-
-- I once hiked the entire Appalachian Trail.
-- I'm a certified scuba diver and love exploring underwater ecosystems.
 
 ## 📊 GitHub Stats
 
