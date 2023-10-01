@@ -39,8 +39,8 @@ I have worked with a companie:
 
 Here are some of my technical skills:
 
-- Programming Languages: JavaScript, Python, TypeScript
-- Web Development: React, Node.js, HTML/CSS
+- Programming Languages: JavaScript, Python
+- Web Development: HTML/CSS
 - Data Science: Pandas, NumPy, scikit-learn
 - Databases: SQL
 - Version Control: Git, GitHub
