@@ -5,18 +5,6 @@
 
 I am a final year student with a passion for web development and data science. As I approach graduation, I'm dedicated to expanding my skills and preparing for a successful career in software development. I love tackling challenging problems and creating innovative solutions. When I'm not coding, you can find me exploring the great outdoors or experimenting in the kitchen.
 
-## 🌐 My Website
-
-Visit my personal website to learn more about my work and projects:
-
-- [vaibhavwagh.in](vaibhavwagh.in)
-  (⚠ work in progress)
-
-## 🤝 Open to Collaboration
-
-I'm always open to collaborating on exciting projects or discussing job opportunities. Feel free to reach out!
-
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&theme=radical)
