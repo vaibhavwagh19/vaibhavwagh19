@@ -62,17 +62,18 @@ Certainly! Here’s a consolidated and enhanced README file for your GitHub prof
 </p>
 
 
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 10px; justify-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" />
+  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
 </div>
+
