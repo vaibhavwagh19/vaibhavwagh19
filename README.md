@@ -8,21 +8,9 @@ Certainly! Here’s a consolidated and enhanced README file for your GitHub prof
   <img src="https://komarev.com/ghpvc/?username=vaibhavwagh19&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwagh19" /> 
 </p>
 
-## GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" /> </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact" alt="vaibhavwagh19" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en" alt="vaibhavwagh19" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&" alt="vaibhavwagh19" />
-</p>
-
-## Languages and Tools Icons
+## Languages and Tools
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -71,7 +59,3 @@ Certainly! Here’s a consolidated and enhanced README file for your GitHub prof
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
 </p>
-
----
-
-Feel free to update or customize any sections to better fit your needs or preferences!
