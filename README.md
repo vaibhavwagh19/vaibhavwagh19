@@ -1,6 +1,3 @@
-Certainly! Here’s a consolidated and enhanced README file for your GitHub profile:
-
----
 
 # Hello, I'm Vaibhav Wagh! 👋
 
