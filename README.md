@@ -8,7 +8,21 @@ Certainly! Here’s a consolidated and enhanced README file for your GitHub prof
   <img src="https://komarev.com/ghpvc/?username=vaibhavwagh19&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwagh19" /> 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" /> </p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; justify-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
+  </div>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" />
+  </div>
+</div>
+
 
 ## Languages and Tools
 
