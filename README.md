@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=vaibhavwagh19&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwagh19" /> 
 </p>
 
-
-
-
 ## Languages and Tools
 
 <p align="left">
@@ -60,17 +57,18 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+  <div style="flex: 1 1 45%; box-sizing: border-box;">
     <img src="https://github-readme-stats.vercel.app/api?username=vaibhavwagh19&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+  <div style="flex: 1 1 45%; box-sizing: border-box;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+  <div style="flex: 1 1 45%; box-sizing: border-box;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwagh19&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); box-sizing: border-box;">
+  <div style="flex: 1 1 45%; box-sizing: border-box;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavwagh19&theme=github" alt="vaibhavwagh19" style="width: 100%;"/>
   </div>
 </div>
+
 
