@@ -50,7 +50,7 @@
 </p>
 
 
-## status
+## Status
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavwagh19&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=dark" alt="vaibhavwagh19" />
